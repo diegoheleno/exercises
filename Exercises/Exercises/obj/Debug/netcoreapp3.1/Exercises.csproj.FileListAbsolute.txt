@@ -1,0 +1,13 @@
+C:\Users\diego.heleno\Projetos\exercises\Exercises\Exercises\bin\Debug\netcoreapp3.1\Exercises.exe
+C:\Users\diego.heleno\Projetos\exercises\Exercises\Exercises\bin\Debug\netcoreapp3.1\Exercises.deps.json
+C:\Users\diego.heleno\Projetos\exercises\Exercises\Exercises\bin\Debug\netcoreapp3.1\Exercises.runtimeconfig.json
+C:\Users\diego.heleno\Projetos\exercises\Exercises\Exercises\bin\Debug\netcoreapp3.1\Exercises.runtimeconfig.dev.json
+C:\Users\diego.heleno\Projetos\exercises\Exercises\Exercises\bin\Debug\netcoreapp3.1\Exercises.dll
+C:\Users\diego.heleno\Projetos\exercises\Exercises\Exercises\bin\Debug\netcoreapp3.1\Exercises.pdb
+C:\Users\diego.heleno\Projetos\exercises\Exercises\Exercises\obj\Debug\netcoreapp3.1\Exercises.csprojAssemblyReference.cache
+C:\Users\diego.heleno\Projetos\exercises\Exercises\Exercises\obj\Debug\netcoreapp3.1\Exercises.AssemblyInfoInputs.cache
+C:\Users\diego.heleno\Projetos\exercises\Exercises\Exercises\obj\Debug\netcoreapp3.1\Exercises.AssemblyInfo.cs
+C:\Users\diego.heleno\Projetos\exercises\Exercises\Exercises\obj\Debug\netcoreapp3.1\Exercises.csproj.CoreCompileInputs.cache
+C:\Users\diego.heleno\Projetos\exercises\Exercises\Exercises\obj\Debug\netcoreapp3.1\Exercises.dll
+C:\Users\diego.heleno\Projetos\exercises\Exercises\Exercises\obj\Debug\netcoreapp3.1\Exercises.pdb
+C:\Users\diego.heleno\Projetos\exercises\Exercises\Exercises\obj\Debug\netcoreapp3.1\Exercises.genruntimeconfig.cache

@@ -5,4 +5,10 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="2-Doing\" />
+    <Folder Include="3-Done\" />
+    <Folder Include="1-ToDo\" />
+  </ItemGroup>
+
 </Project>
